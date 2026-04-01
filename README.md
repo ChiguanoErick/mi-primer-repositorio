@@ -25,4 +25,4 @@ Aquí ya realicé varios cambios en GitHub.
  
 ## 👤 Sobre mí
 Nombre: Erick Chiguano
-Curso: DP 1"C"
+Curso: DP 1 C
